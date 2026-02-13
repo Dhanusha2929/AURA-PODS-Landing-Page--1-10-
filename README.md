@@ -35,7 +35,7 @@ The goal of this challenge is to:
 
 - More advanced animations  
 - Improved UI contrast and typography  
-- Adding a call-to-action section  
+- Adding a call-to-action section
 
 ## 👩‍💻 Author
 
