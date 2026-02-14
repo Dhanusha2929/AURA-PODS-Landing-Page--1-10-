@@ -1,4 +1,4 @@
-<img width="1906" height="915" alt="Screenshot 2026-02-14 090046" src="https://github.com/user-attachments/assets/3bc9bbf6-4e0d-4929-b607-0e9ff198fbd2" /># AURA-PODS  [Landing-Page 1/10]
+# AURA-PODS  [Landing-Page 1/10]
 This is a product landing page built using only HTML &amp; CSS as part of my 10 Landing Pages Challenge (1/10).  The design includes a hero section, feature cards, and hover effects. Inspired by an existing product concept and independently implemented with custom styling.
 
 ## 🚀 Project Overview
@@ -30,8 +30,6 @@ The goal of this challenge is to:
 - Build consistency through daily projects  
 - Document my frontend learning journey publicly
 
-#Project Screenshots
-<img src="assets/ Screenshot 2026-02-14 090046.png" width="600">
 
 
 ## 📌 Future Improvements
