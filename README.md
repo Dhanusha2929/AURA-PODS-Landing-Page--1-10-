@@ -37,8 +37,7 @@ The goal of this challenge is to:
 - Improved UI contrast and typography  
 - Adding a call-to-action section
 
-!["PROJECT PHOTOS"](/<img width="1873" height="884" alt="Screenshot 2026-01-26 224134" src="https://github.com/user-attachments/assets/0cbc6c03-7ea4-4e3f-a174-d056014c943a" />
-)
+
 
 ## 👩‍💻 Author
 
