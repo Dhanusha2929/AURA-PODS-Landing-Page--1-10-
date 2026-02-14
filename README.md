@@ -37,7 +37,7 @@ No frameworks or libraries were used in this project.
 
 ## 🎥 Project Demo Video
 
-[▶ Click Here to Watch Demo Video](assets/WhatsApp%20Video%202026-02-13%20at%206.53.15%20PM.mp4)
+[▶ Click Here to Watch Demo Video](https://www.linkedin.com/posts/dhanusha-jakkula_html-css-frontenddevelopment-activity-7428079364967391232-igzh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKFI5ABDvi0giOIjBlq82pCe1J5H0LDDXI)
 
 
 
