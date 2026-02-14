@@ -35,11 +35,6 @@ No frameworks or libraries were used in this project.
 
 <img src="assets/Screenshot 2026-02-14 090131.png" width="700">
 
-## 🎥 Project Demo Video
-
-[▶ Click Here to Watch Demo Video](https://www.linkedin.com/posts/dhanusha-jakkula_html-css-frontenddevelopment-activity-7428079364967391232-igzh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKFI5ABDvi0giOIjBlq82pCe1J5H0LDDXI)
-
-
 
 
 ## 🎯 Purpose of This Challenge
